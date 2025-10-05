@@ -108,4 +108,4 @@
 ---
 
 **Academic Semester:** Fall 2025  
-**Document Type:** Course Syllabus & Study Guide
+**Document Type:** Course Syllabus & Study Guide 
